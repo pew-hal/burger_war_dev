@@ -1,0 +1,9 @@
+
+■docker環境構築
+https://www.softek.co.jp/SID/support/sidfmvm/guide/install-docker-ubuntu1804.html
+https://dtnqes.com/archives/1394/
+
+docker run -it --rm --name ubuntu-cont ubuntu:18.04 /bin/bash
+
+https://qiita.com/yuki-shark/items/3e54af7140b755223c3e
+
